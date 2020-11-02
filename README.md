@@ -1,4 +1,4 @@
-## Movie Seat Booking
+## Movie Seat Booking created with Vanilla JS
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
